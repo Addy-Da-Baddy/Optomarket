@@ -1,6 +1,6 @@
 # Optomarket - Customer Segmentation and Analysis Tool
 
-![Optomarket Logo](logo.jpg/468x60?text=Optomarket+Logo)
+![Optomarket Logo](https://github.com/Addy-Da-Baddy/Optomarket/blob/main/logo.jpg)
 
 ## Overview
 
