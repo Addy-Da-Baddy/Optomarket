@@ -2,13 +2,13 @@
 
 ## Overview
 
-Optomarket is a cutting-edge customer segmentation and analysis tool designed for market analysts and business intelligence professionals. The application uses K-Means clustering to segment customer data and provides detailed insights and recommendations using advanced AI integration. Built with Streamlit, this tool offers interactive data visualization and analysis features, helping businesses understand customer segments and optimize marketing strategies.
+Optomarket is a customer segmentation and analysis tool designed for market analysts and business intelligence professionals. The application uses K-Means clustering to segment customer data and provides detailed insights and recommendations using advanced AI integration. Built with Streamlit, this tool offers interactive data visualization and analysis features, helping businesses understand customer segments and optimize marketing strategies.
 
 ## Features
 
 - **Data Upload and Preview**: Easily upload and preview your customer data in CSV format.
 - **Data Cleaning and Processing**: Automatically handles missing values, calculates age from dates of birth, and prepares data for clustering.
-- **Clustering and Analysis**: Applies K-Means clustering to segment customers into distinct groups.
+- **Clustering and Analysis**: Applies clustering to segment customers into distinct groups.
 - **Visualization**: Generates interactive plots including scatter plots, box plots, histograms, and PCA plots to visualize clustering results.
 - **Segment Analysis**: Integrates with the Gemini API to provide professional titles, detailed analyses, and tailored marketing recommendations for each customer segment.
 - **Download Options**: Download segmented data and segment profiles for further analysis.
@@ -28,7 +28,7 @@ Optomarket is a cutting-edge customer segmentation and analysis tool designed fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/optomarket.git
+   git clone https://github.com/Addy-Da-Baddy/optomarket.git
    cd optomarket
    ```
 
