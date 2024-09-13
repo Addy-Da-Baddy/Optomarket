@@ -4,7 +4,7 @@
 
 ## Overview
 
-Optomarket is a cutting-edge customer segmentation and analysis tool designed for market analysts and business intelligence professionals. The application uses K-Means clustering to segment customer data and provides detailed insights and recommendations using advanced AI integration. Built with Streamlit, this tool offers interactive data visualization and analysis features, helping businesses understand customer segments and optimize marketing strategies.
+Optomarket is a customer segmentation and analysis tool designed for market analysts and business intelligence professionals. The application uses clustering to segment customer data and provides detailed insights and recommendations using advanced AI integration. Built with Streamlit, this tool offers interactive data visualization and analysis features, helping businesses understand customer segments and optimize marketing strategies.
 
 ## Features
 
